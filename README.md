@@ -7,7 +7,7 @@ A Retrieval-Augmented Generation (RAG) project built using LangChain.
 <!-- - PDF Loader -->
 <!-- - Recursive Text Splitter -->
 <!-- - Gemini Embeddings -->
-- InMemory Vector Store
+<!-- - InMemory Vector Store -->
 - Mistral Large LLM
 - Context Retrieval
 - Conversational Question Answering
